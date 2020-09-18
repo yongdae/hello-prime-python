@@ -322,3 +322,7 @@ dmypy.json
 # https://plugins.jetbrains.com/plugin/12206-codestream
 
 # End of https://www.toptal.com/developers/gitignore/api/python,intellij,webstorm,visualstudiocode
+
+
+# misc
+.DS_Store
